@@ -1,2 +1,33 @@
-body {background-color: green;}
-h1 {color:blue}
+body {
+  max-width: 800px;
+  margin: auto;
+  font-family: 'Berkshire Swash', cursive;
+}
+h1 {color: #4ec43a}
+
+table {
+    border-collapse: collapse;
+    color: #000;
+    width: 100%;
+}
+
+table, td, th {
+
+}
+
+td, th {
+  padding:4px;
+}
+
+tr:nth-child(even) {
+  background: #eee;
+}
+
+tr:nth-child(odd) {
+  background: #ccc;
+}
+
+th {
+  background: #4ec43a;
+  color: #fff;
+}
