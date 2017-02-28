@@ -1,9 +1,21 @@
 body {
   max-width: 800px;
   margin: auto;
-  font-family: 'Berkshire Swash', cursive;
+  Background-color: #88cc88;
 }
-h1 {color: #4ec43a}
+
+h1 {
+  color: white;
+  font-family: Helvetica, sans-serif;
+  font-size: 75px;
+  margin-bottom: 1px;
+}
+
+h2 {
+  font-family: Helvetica, sans-serif;
+  color: white;
+  margin-bottom: -20px;
+}
 
 table {
     border-collapse: collapse;
@@ -31,3 +43,13 @@ th {
   background: #4ec43a;
   color: #fff;
 }
+
+section {
+  margin-bottom: 200px;
+  font-size: 35px;
+}
+
+li {
+  font-family: Verdana;
+  color: white;
+}f
