@@ -4,11 +4,18 @@ body {
   Background-color: #88cc88;
 }
 
+.nametag {
+  background-color: #b5efa0;
+  margin: 0px;
+  padding: 0px;
+
+}
 h1 {
   color: white;
   font-family: Helvetica, sans-serif;
   font-size: 75px;
   margin-bottom: 1px;
+  margin-top: 0px;
 }
 
 h2 {
